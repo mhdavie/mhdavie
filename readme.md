@@ -13,7 +13,8 @@
 </div>
 
 ## About Me:
-I am a (future) full stack developer cu
+  
+  I am student at University of Denver Full-Stack Developer Bootcamp.
 
 - 🔭 I’m currently working on earning a Full Stack Developer certificate from University of Denver
 - 🌱 I’m currently learning Node.js

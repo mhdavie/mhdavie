@@ -14,7 +14,7 @@
 
 ## About Me:
   
-  I am a currently student at University of Denver Full-Stack Developer Bootcamp. Born and raised in Brazil. I live in Denver, CO with my husband and my dog. I moved to USA in 2016 to study and improve my English. I just start the process of changing carrers, after 10+ years working with Education,  I finally found myself passionated with another challenge: Coding! 
+  I am a currently student at University of Denver Full-Stack Developer Bootcamp. Born and raised in Brazil. I live in Denver, CO with my husband and my dog. I moved to USA in 2016 to study and improve my English. I just started the process of changing carrers, after 10+ years working with Education,  I finally found myself passionated with another challenge: Coding! 
 
 - 🔭 I’m currently working on earning a Full Stack Developer certificate from University of Denver
 - 🌱 I’m currently learning Java Script, Node.js.

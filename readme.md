@@ -17,6 +17,7 @@
   I’m a certified Full Stack Developer from University of Denver. Born and raised in Brazil. I live in Denver, CO with my husband and my dog. I moved to USA in 2016 to study and improve my English. I just started the process of changing careers and after 10+ years working with Education I finally found myself excited with another challenge: Coding! 
 
 - 🔭 I’m a certified Full Stack Developer from University of Denver
+- ✨ I'm currently taking React classes from Alura and Udemy.
+- ⚡ Fun fact: I speak 3 languages - Portuguese, English and Italian (and currently taking Spanish classes 😎)! 
 - 📫 How to reach me: email:marianahodniki1991@gmail.com 
-- ⚡ Fun fact: I speak 3 languages - Portuguese, English and Italian! 
 

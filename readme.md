@@ -18,6 +18,6 @@
 
 - 🔭 I’m a certified Full Stack Developer from University of Denver
 - ✨ I'm currently taking React classes from Alura and Udemy.
-- ⚡ Fun fact: I speak 3 languages - Portuguese, English and Italian (and currently taking Spanish classes 😎)! 
+- ⚡ Fun fact: I speak 3 languages - Portuguese, English and Italian. 
 - 📫 How to reach me: email: marianahodniki1991@gmail.com 
 
